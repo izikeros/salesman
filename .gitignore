@@ -1,0 +1,7 @@
+.pytest_cache/
+salesman/.ipynb_checkpoints/
+salesman/.pytest_cache/
+salesman/htmlcov/
+salesman/res/
+*.gif
+*.coverage
